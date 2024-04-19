@@ -13,7 +13,7 @@ export default function Footer() {
                             </li>
                             <li>
                                 <a href="tel:92982761451" className="flex align-bottom justify-start">
-                                     (92) 98276-1451
+                                    <FaWhatsapp className="mt-1 mr-1"/> (92) 98276-1451
                                 </a>
                             </li>
                             <li>
